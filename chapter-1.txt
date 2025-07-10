@@ -1,1 +1,2 @@
 How to install Git and set up a GitHub account
+It was the best of times, it was the worst of times
